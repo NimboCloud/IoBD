@@ -2,7 +2,8 @@
 
 # IoBD
 Interconnection of Big Data - supporting material for the blog series
-______  
+______
+![alt text][aws_topo]  
 Setup the Infrastructure need for an on-demand Analytics Platform.
 
 1. Install the Infrastructure.  
@@ -13,6 +14,8 @@ Setup the Infrastructure need for an on-demand Analytics Platform.
 4. Obtain the Data  
 5. Make majic happen  
 
-
+![alt text][zep]
 
 [eps]: https://github.com/NimboCloud/IoBD/blob/master/img/eps_logo.png?raw=true "Equinix Professional Services"
+[aws_topo]: https://github.com/NimboCloud/IoBD/blob/master/img/network_topology.png?raw=true "Equinix Professional Services"
+[zep]: https://github.com/NimboCloud/IoBD/blob/master/img/zeppelin.png?raw=true "Equinix Professional Services"
