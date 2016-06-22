@@ -24,7 +24,7 @@ param
 )
 
 #Set credentials for your AWS account
-$cmd = '.\Credentials.ps1'
+$cmd = 'C:\Users\BenTownerNimbo\.aws\EPSCloud.ps1'
 Invoke-Expression "$cmd"
 
 ## After successfully logging in with Powershell
