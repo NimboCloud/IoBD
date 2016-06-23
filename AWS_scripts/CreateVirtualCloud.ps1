@@ -23,8 +23,10 @@ param
     [string][parameter(mandatory=$false)]$PrivateSubnetCIDR = '10.2.1.0/24'
 )
 
-#Set credentials for your AWS account
-$cmd = 'C:\Users\BenTownerNimbo\.aws\EPSCloud.ps1'
+## Set credentials for your AWS account
+# I use a credential file from my AWS account, you need to update here
+# $cmd = 'C:\Users\BenTownerNimbo\.aws\EPSCloud.ps1'
+$cmd = '<Account login credential File location>'
 Invoke-Expression "$cmd"
 
 ## After successfully logging in with Powershell
