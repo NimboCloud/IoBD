@@ -12,6 +12,8 @@ Setup the Infrastructure need for an on-demand Analytics Platform.
 2. Provision Spark  
 3. Provision Zepplin with Spark Integration  
 4. Obtain the Data  
+	Create a twitter [application](https://apps.twitter.com/app/).  
+		
 5. Make majic happen  
 
 ![alt text][zep]
